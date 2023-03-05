@@ -92,7 +92,7 @@ fieldset {
   top: 1px;
 }
 
-.all {
+main {
   display: flex;
   justify-content: center;
   align-items: center;
